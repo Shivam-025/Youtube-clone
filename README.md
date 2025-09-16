@@ -12,7 +12,7 @@
 
   ## 📸 Screenshots
 <!-- Add a few images of your website -->
-![Image](https://github.com/user-attachments/assets/1f707a95-f39a-4f1b-9a1f-437412c2f864)
+![Image](https://github.com/user-attachments/assets/1fb53887-8d81-4329-a20b-6b723aefee95)
 
 
 ## 🛠️ Tech Stack
