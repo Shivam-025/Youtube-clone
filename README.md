@@ -21,5 +21,5 @@
 
 
 ##📍 Live Preview
-🔗  [Click here :closed_lock_with_key:](http://127.0.0.1:3000/Youtubeclone.html)
+🔗  [Click here :closed_lock_with_key:](https://shivam-025.github.io/Youtube-clone/)
 
